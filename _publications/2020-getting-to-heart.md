@@ -9,4 +9,4 @@ venue: 'Consciousness and Cognition'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1053810020300908'
 citation: 'Abir, Y., & Hassin, R. R. (2020). Getting to the heart of it: multi-method exploration of nonconscious prioritization processes. Consciousness and Cognition, 85, 103005.'
 ---
-Reserach into the determininats of consciousness too often relies on a single technique: continuous flash suppression. We developed a new technique, repeated masked suppression, with which scientists can examine the central process of prioritization to consciousness across different awareness suppression techniques. It also allows for online experiments, which since the pandemic have had a central role in advancing cognitive science.
+Reserach into the determinants of consciousness too often relies on a single technique: continuous flash suppression. We developed a new technique, repeated masked suppression, with which scientists can examine the central process of prioritization to consciousness across different awareness suppression techniques. It also allows for online experiments, which since the pandemic have had a central role in advancing cognitive science.
