@@ -1,7 +1,7 @@
 ---
 title: "Did you see it? Robust individual differences in the speed with which meaningful visual stimuli break suppression"
 collection: publications
-permalink: /publication/2021-break-suppression-speed
+permalink: 
 excerpt: ''
 date: 2021-06-01
 section: 'consciousness'
