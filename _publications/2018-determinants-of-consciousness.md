@@ -1,5 +1,5 @@
 ---
-title: The determinants of consciousness of human faces"
+title: 'The determinants of consciousness of human faces'
 collection: publications
 permalink: 
 excerpt: 'We developed a computational method to visualize and analyze the factors determining the contents of our visual consciousness. We focused on faces, and find that faces that are percieved as more dominant are prioritized for consciousness. We show that this result cannot be explained by low-level differences in visual input, but is rather a holistic trait of a face.'
