@@ -86,7 +86,7 @@ author:
   location         : "New York, NY, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=nSQCBR0AAAAJ&hl=en&oi=ao"
+  googlescholar    : 'https://scholar.google.com/citations?user=nSQCBR0AAAAJ&hl=en&oi=ao'
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
