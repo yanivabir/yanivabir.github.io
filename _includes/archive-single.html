@@ -57,17 +57,22 @@
     {% if post.paperurl %}
     <p>{{ post.citation }}</p>
     {% endif %}
+
+    {% if post.paperurllabel %}
+      {% capture paperurllabel %}{{ post.paperurllabel }}{% endcapture %}
+    {% else %}
+      {% capture paperurllabel %}'Paper'{% endcapture %}
+    {% endif %}
     
     {% if post.paperurl and post.codeurl and post.talkurl %}
-    <p><a href=" {{ post.paperurl }} "><u>Paper</u></a> | <a href=" {{ post.codeurl }} "><u>Data and code</u></a> | <a href=" {{ post.talkurl }} "><u>Recorded talk</u></a></p>
+    <p><a href=" {{ post.paperurl }} "><u>{{ paperurllabel }}</u></a> | <a href=" {{ post.codeurl }} "><u>Data and code</u></a> | <a href=" {{ post.talkurl }} "><u>Recorded talk</u></a></p>
     {% elsif post.paperurl and post.codeurl %}
-    <p><a href=" {{ post.paperurl }} "><u>Paper</u></a> | <a href=" {{ post.codeurl }} "><u>Data and code</u></a></p>
+    <p><a href=" {{ post.paperurl }} "><u>{{ paperurllabel }}</u></a> | <a href=" {{ post.codeurl }} "><u>Data and code</u></a></p>
     {% elsif post.paperurl and post.talkurl %}
-    <p><a href=" {{ post.paperurl }} "><u>Paper</u></a> | <a href=" {{ post.talkurl }} "><u>Recorded talk</u></a></p>
+    <p><a href=" {{ post.paperurl }} "><u>{{ paperurllabel }}</u></a> | <a href=" {{ post.talkurl }} "><u>Recorded talk</u></a></p>
     {% elsif post.paperurl %}
-    <p><a href=" {{ post.paperurl }} "><u>Paper</u></a></p>
+    <p><a href=" {{ post.paperurl }} "><u>{{ paperurllabel }}</u></a></p>
     {% endif %}
    
-
   </article>
 </div>
