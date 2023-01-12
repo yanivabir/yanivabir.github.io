@@ -3,7 +3,7 @@ title: 'Human Exploration Strategically Balances Approaching and Avoiding Uncert
 collection: publications
 permalink: 
 excerpt: 'Combining data that we collected in the early days of the pandemic, computational modelling, and decades-old theory, we show that motivation has two roles in determining information-seeking. When COVID-19 suddenly become motivationally relevant, that change in motivation directed individuals to seek COVID-19-related information, but also energized the seeking of unrelated information. Our results challenge the view that human information-seeking is driven by an errative and maladaptive curiosity drive. Instead, we find that humans are rational in seeking information, be it celebritiy gossip or ways to keep ourselves safe from a novel pathogen.'
-date: 
+date: 2023-01-11
 section: 'exploration'
 venue: 
 paperurl: 'https://www.nature.com/articles/s41467-022-30011-5'
