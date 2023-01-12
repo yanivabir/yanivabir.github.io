@@ -18,6 +18,7 @@ author_profile: true
 {% endfor %}
 
 <h2>Prioritization for consciousness</h2>
+<p>Before graduate school, I worked with <a href="http://labconscious.huji.ac.il/">Ran Hassin</a>, studying how our conscious perceptions are selected from the multitued of stimulation feeding into our visual systems.</p>
 {% for post in site.publications reversed %}
   {% if post.section == 'consciousness' %}
       {% include archive-single.html %}
