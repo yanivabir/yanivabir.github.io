@@ -8,5 +8,5 @@ section: 'consciousness'
 venue: 'Nature Human Behaviour'
 paperurl: 'https://www.nature.com/articles/s41562-017-0266-3.pdf'
 codeurl: 'http://labconscious.huji.ac.il/?p=855'
-citation: 'Abir, Y., Sklar, A. Y., Dotsch, R., Todorov, A., & Hassin, R. R. (2018). The determinants of consciousness of human faces. Nature Human Behaviour, 2(3), 194-199.'
+citation: 'Abir, Y., Sklar, A. Y., Dotsch, R., Todorov, A., & Hassin, R. R. (2018). <i>The determinants of consciousness of human faces.</i> Nature Human Behaviour, 2(3), 194-199.'
 ---

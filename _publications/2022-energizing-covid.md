@@ -8,5 +8,5 @@ section: 'exploration'
 venue: 'Nature Communications'
 paperurl: 'https://www.nature.com/articles/s41467-022-30011-5'
 codeurl: 'https://osf.io/gjcu9/'
-citation: 'Abir, Y., Marvin, C. B., van Geen, C., Leshkowitz, M., Hassin, R. R., & Shohamy, D. (2022). An energizing role for motivation in information-seeking during the early phase of the COVID-19 pandemic. Nature Communications, 13(1), 1-10.'
+citation: 'Abir, Y., Marvin, C. B., van Geen, C., Leshkowitz, M., Hassin, R. R., & Shohamy, D. (2022). <i>An energizing role for motivation in information-seeking during the early phase of the COVID-19 pandemic.</i> Nature Communications, 13(1), 1-10.'
 ---
