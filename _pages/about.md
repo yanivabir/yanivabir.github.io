@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate at Columbia University, in the lab of Daphna Shohamy. Broadly, I'm interested in how human plan and explore. My reserach focuses on understanding the computations driving human exploration and curiosity.
+I'm a PhD candidate at Columbia University, in the lab of Daphna Shohamy. Broadly, I'm interested in how humans plan and explore. My reserach focuses on understanding the computations driving human exploration and curiosity.
