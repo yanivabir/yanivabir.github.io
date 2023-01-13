@@ -10,5 +10,5 @@ paperurl: 'https://bit.ly/3H68O1q'
 paperurllabel: 'RLDM abstract'
 codeurl: 'https://osf.io/6zyev/'
 talkurl: 'https://www.youtube.com/watch?v=jaKiubu5KAk'
-citation: 'Abir, Y., Shadlen, M.N., & Shohamy, D. (Under review). Human Exploration Strategically Balances Approaching and Avoiding Uncertainty.'
+citation: 'Abir, Y., Shadlen, M.N., & Shohamy, D. (Under review). <i>Human Exploration Strategically Balances Approaching and Avoiding Uncertainty.</i>'
 ---
