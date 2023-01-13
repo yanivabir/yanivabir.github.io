@@ -11,6 +11,8 @@ author_profile: true
 {% include base_path %}
 
 <h2>Exploration and curiosity</h2>
+<p>My aim is to understand how humans seek information. We re very effective in exploring our complex enviornment, collecting the information we need to pursue our goals. How do we do that? Consequentially, we seem to be very curious creatures. Some economists have calculated that we are too curious. What guides our motivation to seek information that appears useless?</p> 
+
 {% for post in site.publications reversed %}
   {% if post.section == 'exploration' %}
       {% include archive-single.html %}
