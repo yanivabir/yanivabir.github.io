@@ -11,7 +11,7 @@ author_profile: true
 {% include base_path %}
 
 <h2>Exploration and curiosity</h2>
-<p>My aim is to understand how humans seek information. We are very effective in exploring our complex enviornment, collecting the information we need to pursue our goals. How do we do that? Consequentially, we seem to be very curious creatures. Some economists have calculated that we are too curious. What guides our motivation to seek information that appears useless?</p> 
+<p>My aim is to understand how humans seek information. We are very effective in exploring our complex environment, collecting the information we need to pursue our goals. How do we do that? Consequently, we seem to be very curious creatures. Some economists have calculated that we are too curious. What guides our motivation to seek information that appears useless?</p> 
 
 {% for post in site.publications reversed %}
   {% if post.section == 'exploration' %}
@@ -20,7 +20,7 @@ author_profile: true
 {% endfor %}
 
 <h2>Prioritization for consciousness</h2>
-<p>Before graduate school, I worked with <a href="http://labconscious.huji.ac.il/">Ran Hassin</a>, studying how our conscious perceptions are selected from the multitued of stimulation feeding into our visual systems.</p>
+<p>Before graduate school, I worked with <a href="http://labconscious.huji.ac.il/">Ran Hassin</a>, studying how our conscious perceptions are selected from the multitude of stimulation feeding into our visual systems.</p>
 {% for post in site.publications reversed %}
   {% if post.section == 'consciousness' %}
       {% include archive-single.html %}
