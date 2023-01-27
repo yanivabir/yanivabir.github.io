@@ -6,8 +6,8 @@ excerpt: 'How do humans achieve the goal of resolving uncertainty when they expl
 date: 2023-01-11
 section: 'exploration'
 venue: 
-paperurl: 'https://bit.ly/3H68O1q'
-paperurllabel: 'RLDM abstract'
+paperurl: 'https://doi.org/10.31234/osf.io/gtxam'
+paperurllabel: 'Preprint'
 codeurl: 'https://osf.io/6zyev/'
 talkurl: 'https://www.youtube.com/watch?v=jaKiubu5KAk'
 citation: 'Abir, Y., Shadlen, M.N., & Shohamy, D. (Under review). <i>Human Exploration Strategically Balances Approaching and Avoiding Uncertainty.</i>'
