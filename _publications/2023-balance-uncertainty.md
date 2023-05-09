@@ -6,11 +6,7 @@ excerpt: 'How do humans achieve the goal of resolving uncertainty when they expl
 date: 2023-01-11
 section: 'exploration'
 venue: 
-<<<<<<< HEAD
-paperurl: 'https://doi.org/10.31234/osf.io/gtxam'
-=======
 paperurl: 'https://psyarxiv.com/gtxam/'
->>>>>>> 3549ffe (uncertainty preprint)
 paperurllabel: 'Preprint'
 codeurl: 'https://osf.io/6zyev/'
 talkurl: 'https://www.youtube.com/watch?v=jaKiubu5KAk'
