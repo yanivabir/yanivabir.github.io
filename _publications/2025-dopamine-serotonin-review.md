@@ -3,7 +3,7 @@ title: "Dopamine and serotonin differentially associated with reward and punishm
 collection: publications
 permalink: 
 excerpt: ''
-date: 2021-07-29
+date: 2025-07-29
 section: 'learning'
 venue: 'JAMA Psychiatry'
 paperurl: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC12159863/'
