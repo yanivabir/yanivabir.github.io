@@ -185,6 +185,10 @@ body:hover .visually-hidden button {
   .fa {
     color: #000;
   }
+
+  .fa-bluesky {
+    color: $bluesky-color;
+  }
    
   .fa-mastodon {
     color: $mastodon-color;

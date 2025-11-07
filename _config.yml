@@ -83,7 +83,7 @@ author:
   name             : "Yaniv Abir"
   avatar           : "profile.png"
   bio              : 
-  location         : "New York, NY, USA"
+  location         : "London, UK"
   employer         :
   pubmed           : 
   googlescholar    : 'https://scholar.google.com/citations?user=nSQCBR0AAAAJ&hl=en&oi=ao'
@@ -110,12 +110,13 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "AbirYaniv"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  bluesky          : 'yanivabir.bsky.social'
 
 
 # Reading Files
