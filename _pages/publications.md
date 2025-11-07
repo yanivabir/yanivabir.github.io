@@ -10,11 +10,13 @@ author_profile: true
 
 {% include base_path %}
 
-<h2>Exploration and curiosity</h2>
+<h2>Learning and exploration</h2>
 <p>The aim of my PhD work was to gain an understanding of how humans seek information. We are very effective in exploring our complex environment, collecting the information we need to pursue our goals. How do we do that? Consequently, we seem to be very curious creatures. Some economists have calculated that we are too curious. What guides our motivation to seek information that appears useless?</p> 
 
+<p>My postdoctoral work at the UCL Max Planck Centre for Computational Psychiatry builds on these questions, studying how learning processes shape mood and motivation—and how they may underlie the therapeutic effects of antidepressants.</p>
+
 {% for post in site.publications reversed %}
-  {% if post.section == 'exploration' %}
+  {% if post.section == 'learning' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
