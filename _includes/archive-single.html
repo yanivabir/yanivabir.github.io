@@ -64,14 +64,8 @@
       {% capture paperurllabel %}Paper{% endcapture %}
     {% endif %}
     
-    {% if post.paperurl and post.codeurl and post.talkurl %}
-    <p><a href=" {{ post.paperurl }} "><u>{{ paperurllabel }}</u></a> | <a href=" {{ post.codeurl }} "><u>Data and code</u></a> | <a href=" {{ post.talkurl }} "><u>Recorded talk</u></a></p>
-    {% elsif post.paperurl and post.codeurl %}
-    <p><a href=" {{ post.paperurl }} "><u>{{ paperurllabel }}</u></a> | <a href=" {{ post.codeurl }} "><u>Data and code</u></a></p>
-    {% elsif post.paperurl and post.talkurl %}
-    <p><a href=" {{ post.paperurl }} "><u>{{ paperurllabel }}</u></a> | <a href=" {{ post.talkurl }} "><u>Recorded talk</u></a></p>
-    {% elsif post.paperurl %}
-    <p><a href=" {{ post.paperurl }} "><u>{{ paperurllabel }}</u></a></p>
+    {% if post.paperurl or post.preprinturl or post.codeurl or post.talkurl %}
+    <p>{% assign sep = "" %}{% if post.paperurl %}<a href="{{ post.paperurl }}"><u>{{ paperurllabel }}</u></a>{% assign sep = " | " %}{% endif %}{% if post.preprinturl %}{{ sep }}<a href="{{ post.preprinturl }}"><u>Preprint</u></a>{% assign sep = " | " %}{% endif %}{% if post.codeurl %}{{ sep }}<a href="{{ post.codeurl }}"><u>Data and code</u></a>{% assign sep = " | " %}{% endif %}{% if post.talkurl %}{{ sep }}<a href="{{ post.talkurl }}"><u>Recorded talk</u></a>{% endif %}</p>
     {% endif %}
    
   </article>
